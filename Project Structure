@@ -4,6 +4,15 @@ trustpoll/
 │
 ├── frontend/  
 │   ├── public/ 
+│   │   ├── assets/
+│   │   │   ├── logo.png
+│   │   │   └── favicon.ico
+│   │   ├── images/
+│   │   │   ├── poll-banner.jpg
+│   │   │   └── background-image.jpg
+│   │   ├── fonts/
+│   │   │   └── custom-font.woff2
+│   │   └── index.html  # (اختیاری و در صورت نیاز)
 │   ├── pages/  
 │   │   └── index.js  
 │   ├── components/ 
@@ -15,4 +24,4 @@ trustpoll/
 │
 ├── README.md   
 ├── LICENSE  
-└── .gitignore  
+└── .gitignore
