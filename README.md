@@ -24,29 +24,6 @@ TrustPoll is a lightweight, secure, blockchain-based voting platform designed fo
 - [ ] Wallet integration (optional)
 - [ ] Launch MVP for public testing
 
-      
-## Project Structure
-
-trustpoll/
-├── contracts/      
-│   └── Voting.sol 
-│
-├── frontend/  
-│   ├── public/ 
-│   ├── pages/  
-│   │   └── index.js  
-│   ├── components/ 
-│   │   └── VoteCard.js
-│   ├── utils/  
-│   │   └── contract.js
-│   └── abi/  
-│       └── Voting.json  
-│
-├── README.md   
-├── LICENSE  
-└── .gitignore  
-
-
 ## Getting Started
 
 - 1. Clone the repository
