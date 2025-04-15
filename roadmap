@@ -1,0 +1,13 @@
+trustpoll/
+├── contracts/
+│   └── Voting.sol        
+├── frontend/
+│   ├── public/
+│   ├── pages/
+│   └── components/
+│       └── VoteCard.js   
+├── backend/              
+├── README.md             
+├── LICENSE               
+├── .env.example          
+└── package.json
