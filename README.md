@@ -26,7 +26,8 @@ TrustPoll is a lightweight, secure, blockchain-based voting platform designed fo
 
       
 ## Project Structure
-      trustpoll/
+
+trustpoll/
 ├── contracts/      
 │   └── Voting.sol 
 │
@@ -43,7 +44,8 @@ TrustPoll is a lightweight, secure, blockchain-based voting platform designed fo
 │
 ├── README.md   
 ├── LICENSE  
-└── .gitignore   
+└── .gitignore  
+
 
 ## Getting Started
 
