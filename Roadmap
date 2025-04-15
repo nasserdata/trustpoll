@@ -1,13 +1,18 @@
 trustpoll/
-├── contracts/
-│   └── Voting.sol        
-├── frontend/
-│   ├── public/
-│   ├── pages/
-│   └── components/
-│       └── VoteCard.js   
-├── backend/              
-├── README.md             
-├── LICENSE               
-├── .env.example          
-└── package.json
+├── contracts/      
+│   └── Voting.sol 
+│
+├── frontend/  
+│   ├── public/ 
+│   ├── pages/  
+│   │   └── index.js  
+│   ├── components/ 
+│   │   └── VoteCard.js
+│   ├── utils/  
+│   │   └── contract.js
+│   └── abi/  
+│       └── Voting.json  
+│
+├── README.md   
+├── LICENSE  
+└── .gitignore  
